@@ -1,0 +1,19 @@
+/* Mobile Responsive Styles */
+@media (max-width: 768px) {
+    .site-header {
+        padding: 10px 0;
+    }
+    
+    .site-content {
+        margin-top: 60px;
+    }
+    
+    .card {
+        margin-bottom: 20px;
+    }
+    
+    .blue-btn {
+        width: 100%;
+        text-align: center;
+    }
+}
